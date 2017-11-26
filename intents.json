@@ -8,8 +8,8 @@
         },
         {
          "tag": "goodbye",
-         "patterns": ["Bye", "Ciao","See you later", "Goodbye"],
-         "responses": ["Happy to talk to you later!","Thanks for showing up", "Bye! Looking forward to seeing you again soon."]
+         "patterns": ["Bye", "Bye bye", "Ciao","See you later", "Goodbye"],
+         "responses": ["Happy to talk to you later!","Thanks for showing up!", "Bye! Looking forward to seeing you again soon!"]
         },
         {
          "tag": "thanks",
